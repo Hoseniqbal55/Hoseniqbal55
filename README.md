@@ -1,24 +1,33 @@
-![Python Programmer](https://media.licdn.com/dms/image/v2/D5603AQF7Vs0NcdRlAg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1695063363466?e=1735776000&v=beta&t=D5wKqlT3dPTjuTCYMNqmxZm3kqTNF6oWhVaT93ZMpW8)
+<h1 align="center">Hi 👋, I'm Hoseniqbal55</h1>
+<h3 align="center">Seeking an opportunity to grow my skills and insights in an organization that shares my values.</h3>
 
-### Hi there 👋, I'm Iqbal Hosen
-#### Python Programmer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hoseniqbal55&label=Profile%20views&color=0e75b6&style=flat" alt="hoseniqbal55" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoseniqbal55" alt="hoseniqbal55" /></a> </p>
 
-Seeking an opportunity to grow my skills and insights in an organization that shares my values.
+- 🔭 I’m currently working on **Post Graduate Student**
 
-Skills: Python Developer | IoT | 3D designer
+- 🌱 I’m currently learning **learning Machine Learning, Deep Learning, Neural Network.**
 
-- 🔭 I’m currently working on Post Graduate Student 
-- 🌱 I’m currently learning Machine Learning, Deep Learning , Neural Network 
-- 👯 I’m looking to collaborate on GitHub 
-- 🤔 I’m looking for help with Programmer 
-- 💬 Ask me about Python programming 
-- 📫 How to reach me: iqbalhosen2029@gmail.com 
-- 😄 Pronouns: Trust with Verify 
-- ⚡ Fun fact: I am Funny 
+- 👯 I’m looking to collaborate on **Github**
 
+- 🤝 I’m looking for help with **Programmer**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hoseniqbal55)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Iqbal Hosen/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Iqbal  Emon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Iqbalemon55/)  
+- 👨‍💻 All of my projects are available at [https://github.com/Hoseniqbal55/Hoseniqbal55/tree/main](https://github.com/Hoseniqbal55/Hoseniqbal55/tree/main)
 
+- 💬 Ask me about **Python programming, 3D Designing**
 
+- 📫 How to reach me **iqbalhosen2029@gmail.com**
 
+- 📄 Know about my experiences [linkedin.com/in/iam-iqbal-hosen](linkedin.com/in/iam-iqbal-hosen)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/iqbal emon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iqbal emon" height="30" width="40" /></a>
+<a href="https://instagram.com/iqbalemon55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iqbalemon55" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoseniqbal55&show_icons=true&locale=en&layout=compact" alt="hoseniqbal55" /></p>
